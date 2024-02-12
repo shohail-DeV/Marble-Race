@@ -1,4 +1,4 @@
-
+## A bounce-ball game built using React-3-Fiber and Zustand.
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
